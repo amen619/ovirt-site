@@ -65,7 +65,7 @@ oVirt Engine DR, use the oVirt API, any changes made to the API, affects our pro
 
 ## Test Plan
 
-- Tested on oVirt / RHV 3.6.10 | 4.1.0
+- Tested on oVirt / RHV 3.6.10 / 4.1.0
 
 ## User Experience
 
